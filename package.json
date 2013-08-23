@@ -1,9 +1,9 @@
 {
-    "name": "Joshua Galvin.perforce",
+    "name": "joshgalvin.perforce",
     "title": "Perforce",
     "description": "Enables Perforce source control integration (no GUI)",
     "homepage": "https://github.com/JoshGalvin/brackets-perforce",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Joshua Galvin <joshuagalvin@gmail.com>",
     "license": "MIT",
     "engines": {
